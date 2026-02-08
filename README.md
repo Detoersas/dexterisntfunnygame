@@ -1,0 +1,1 @@
+I’m currently hosting this on Vercel and will be testing it on other platforms soon. This is my solo project. What I do is find sites and put them there; it works great, has good reviews, and gets constant updates. It’s supposed to look like IXL and will receive some improvements very soon. I’m also adding a status page.
